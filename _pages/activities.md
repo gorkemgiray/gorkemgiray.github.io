@@ -109,7 +109,7 @@ author_profile: true
       <td data-label="Title">A mutation-based approach to alleviate the class imbalance problem in software defect prediction</td>
       <td data-label="Student">Dinçer Güner</td>
       <td data-label="Supervisors">Prof. Dr. Onur Demirörs; Dr. Görkem Giray</td>
-      <td data-label="Link"><a href="[URL-to-thesis](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTOuxw1WkE_y0xTUHhxIr-PRxdN6xi2HDNw2R21n3Id4b)" target="_blank" rel="noopener noreferrer">PDF / Link</a></td>
+      <td data-label="Link"><a href="https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTOuxw1WkE_y0xTUHhxIr-PRxdN6xi2HDNw2R21n3Id4b" target="_blank" rel="noopener noreferrer">PDF</a></td>
     </tr>
     -->
   </tbody>

@@ -73,6 +73,8 @@ author_profile: true
   <thead>
     <tr>
       <th scope="col">Year</th>
+      <th scope="col">Organization</th>
+      <th scope="col">Title</th>
       <th scope="col">Student</th>
       <th scope="col">Supervisors</th>
       <th scope="col">Link</th>
@@ -82,30 +84,32 @@ author_profile: true
   <tbody>
     <!-- Example row: replace with your real entries -->
     <tr>
-      <td data-label="Year">2024</td>
-      <td data-label="Student">Jane Doe</td>
-      <td data-label="Supervisors">Prof. A. Advisor; Prof. B. Mentor</td>
-      <td data-label="Link">
-        <a href="https://example.com/thesis-jane-doe.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-      </td>
+      <td data-label="Year">2027</td>
+      <td data-label="Organization">Izmir Institute of Technology</td>
+      <td data-label="Title">AI-Enhanced Regression Testing for Large-Scale Software Systems</td>
+      <td data-label="Student">Yusuf Emre Beskan</td>
+      <td data-label="Supervisors">Prof. Dr. Onur Demirörs; Dr. Görkem Giray</td>
+      <td data-label="Link">Ongoing</td>
     </tr>
 
     <tr>
-      <td data-label="Year">2023</td>
-      <td data-label="Student">John Smith</td>
-      <td data-label="Supervisors">Prof. A. Advisor</td>
+      <td data-label="Year">2025</td>
+      <td data-label="Organization">Eindhoven University of Technology</td>
+      <td data-label="Title">Towards a Gold-Standard Refactoring Dataset</td>
+      <td data-label="Student">Maria Emanuela Calota</td>
+      <td data-label="Supervisors">Asst. Prof. Lina Ochoa Venegas; Dr. Görkem Giray</td>
       <td data-label="Link">
         <a href="https://example.com/thesis-john-smith.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
       </td>
     </tr>
 
-    <!-- Add more rows below -->
-    <!--
     <tr>
-      <td data-label="Year">YYYY</td>
-      <td data-label="Student">Student Name</td>
-      <td data-label="Supervisors">Supervisor 1; Supervisor 2</td>
-      <td data-label="Link"><a href="URL-to-thesis" target="_blank" rel="noopener noreferrer">PDF / Link</a></td>
+      <td data-label="Year">2023</td>
+      <td data-label="Organization">Izmir Institute of Technology</td>
+      <td data-label="Title">A mutation-based approach to alleviate the class imbalance problem in software defect prediction</td>
+      <td data-label="Student">Dinçer Güner</td>
+      <td data-label="Supervisors">Prof. Dr. Onur Demirörs; Dr. Görkem Giray</td>
+      <td data-label="Link"><a href="[URL-to-thesis](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=a0OMTmEd_3mfOBxT8SiBTOuxw1WkE_y0xTUHhxIr-PRxdN6xi2HDNw2R21n3Id4b)" target="_blank" rel="noopener noreferrer">PDF / Link</a></td>
     </tr>
     -->
   </tbody>

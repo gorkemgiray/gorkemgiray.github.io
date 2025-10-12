@@ -3,6 +3,7 @@ title: "Naming the Pain in machine learning-enabled systems engineering"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-10-NamingThePainInML-EnabledSystemsEng
+excerpt: ''
 date: 2025-08-10
 venue: 'Information and Software Technology'
 paperurl: 'https://doi.org/10.1016/j.infsof.2025.107866'

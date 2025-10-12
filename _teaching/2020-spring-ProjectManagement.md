@@ -1,5 +1,5 @@
 ---
-title: "Project Management"
+title: "Project Management (CENG414)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Izmir Institute of Technology, Computer Engineering Department"

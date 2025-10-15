@@ -3,11 +3,10 @@ title: "Naming the Pain in machine learning-enabled systems engineering"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-10-NamingThePainInML-EnabledSystemsEng
-excerpt: '-'
 date: 2025-08-10
 venue: 'Information and Software Technology'
 paperurl: 'https://doi.org/10.1016/j.infsof.2025.107866'
-citation: 'Kalinowski, M., Mendez, D., Giray, G., Alves, A. P. S., Azevedo, K., Escovedo, T., ... & Gorschek, T. (2025). Naming the pain in machine learning-enabled systems engineering. <i>Information and Software Technology</i>, 107866.'
+citation: 'Kalinowski, M., Mendez, D., <b>Giray, G.</b>, Alves, A. P. S., Azevedo, K., Escovedo, T., ... & Gorschek, T. (2025). Naming the pain in machine learning-enabled systems engineering. <i>Information and Software Technology</i>, 107866.'
 ---
 
 <i>Context:</i> Machine learning (ML)-enabled systems are being increasingly adopted by companies aiming to enhance their products and operational processes.

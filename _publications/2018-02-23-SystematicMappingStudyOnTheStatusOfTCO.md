@@ -6,7 +6,7 @@ permalink: /publication/2018-02-23-SystematicMappingStudyOnTheStatusOfTCO
 date: 2018-02-23
 venue: 'Journal of Information Technologies'
 paperurl: 'https://doi.org/10.17671/gazibtd.327544'
-citation: 'Giray, G., & Tüzün, E. (2018). A systematic mapping study on the current status of total cost of ownership for information systems. <i>Journal of Information Technologies</i>, 11(2), 131-145.'
+citation: '<b>Giray, G.</b>, & Tüzün, E. (2018). A systematic mapping study on the current status of total cost of ownership for information systems. <i>Journal of Information Technologies</i>, 11(2), 131-145.'
 ---
 
 <i>Context:</i> More and more industries and businesses are being run on software, making information systems a pivotal component of our lives. Because of globalization and harsh competition, strategic cost management has become essential to keep or gain competitive advantage. These two trends make the investigation of Total Cost of Ownership (TCO) for information systems crucial.

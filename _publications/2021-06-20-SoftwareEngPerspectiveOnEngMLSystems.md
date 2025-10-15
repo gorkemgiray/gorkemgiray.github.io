@@ -6,7 +6,7 @@ permalink: /publication/2021-06-20-SoftwareEngPerspectiveOnEngMLSystems
 date: 2021-06-25
 venue: 'Journal of Systems and Software'
 paperurl: 'https://doi.org/10.1016/j.jss.2021.111031'
-citation: 'Giray, G. (2021). A software engineering perspective on engineering machine learning systems: State of the art and challenges. <i>Journal of Systems and Software</i>, 180, 111031.'
+citation: '<b>Giray, G.</b> (2021). A software engineering perspective on engineering machine learning systems: State of the art and challenges. <i>Journal of Systems and Software</i>, 180, 111031.'
 ---
 
 <i>Context:</i> Advancements in machine learning (ML) lead to a shift from the traditional view of software development, where algorithms are hard-coded by humans, to ML systems materialized through learning from data. Therefore, we need to revisit our ways of developing software systems and consider the particularities required by these new types of systems.

@@ -6,7 +6,7 @@ permalink: /publication/2022-10-12-OnTheUseOfDLinSDP
 date: 2022-10-12
 venue: 'Journal of Systems and Software'
 paperurl: 'https://doi.org/10.1016/j.jss.2022.111537'
-citation: 'Giray, G., Bennin, K. E., Köksal, Ö., Babur, Ö., & Tekinerdogan, B. (2023). On the use of deep learning in software defect prediction. <i>Journal of Systems and Software</i>, 195, 111537.'
+citation: '<b>Giray, G.</b>, Bennin, K. E., Köksal, Ö., Babur, Ö., & Tekinerdogan, B. (2023). On the use of deep learning in software defect prediction. <i>Journal of Systems and Software</i>, 195, 111537.'
 ---
 
 <i>Context:</i> Automated software defect prediction (SDP) methods are increasingly applied, often with the use of machine learning (ML) techniques. Yet, the existing ML-based approaches require manually extracted features, which are cumbersome, time consuming and hardly capture the semantic information reported in bug reporting tools. Deep learning (DL) techniques provide practitioners with the opportunities to automatically extract and learn from more complex and high-dimensional data.

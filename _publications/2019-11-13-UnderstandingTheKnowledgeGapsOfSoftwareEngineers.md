@@ -6,7 +6,7 @@ permalink: /publication/2019-11-13-UnderstandingTheKnowledgeGapsOfSoftwareEngine
 date: 2019-11-13
 venue: 'ACM Transactions on Computing Education (TOCE)'
 paperurl: 'https://doi.org/10.1145/3360497'
-citation: 'Garousi, V., Giray, G., & Tuzun, E. (2019). Understanding the knowledge gaps of software engineers: An empirical analysis based on SWEBOK. <i>ACM Transactions on Computing Education (TOCE)</i>, 20(1), 1-33.'
+citation: 'Garousi, V., <b>Giray, G.</b>, & Tuzun, E. (2019). Understanding the knowledge gaps of software engineers: An empirical analysis based on SWEBOK. <i>ACM Transactions on Computing Education (TOCE)</i>, 20(1), 1-33.'
 ---
 
 <i>Context:</i> Knowledge level and productivity of the software engineering (SE) workforce are the subject of regular discussions among practitioners, educators, and researchers. There have been many efforts to measure and improve the knowledge gap between SE education and industrial needs.

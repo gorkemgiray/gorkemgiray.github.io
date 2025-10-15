@@ -6,7 +6,7 @@ permalink: /publication/2019-06-12-AligningSoftwareEngEducationWithIndustrialNee
 date: 2019-06-12
 venue: 'Journal of Systems and Software'
 paperurl: 'https://doi.org/10.1016/j.jss.2019.06.044'
-citation: 'Garousi, V., Giray, G., Tüzün, E., Catal, C., & Felderer, M. (2019). Aligning software engineering education with industrial needs: A meta-analysis. <i>Journal of Systems and Software</i>, 156, 65-83.'
+citation: 'Garousi, V., <b>Giray, G.</b>, Tüzün, E., Catal, C., & Felderer, M. (2019). Aligning software engineering education with industrial needs: A meta-analysis. <i>Journal of Systems and Software</i>, 156, 65-83.'
 ---
 
 <i>Context:</i> According to various reports, many software engineering (SE) graduates often face difficulties when beginning their careers, which is mainly due to misalignment of the skills learned in university education with what is needed in the software industry.

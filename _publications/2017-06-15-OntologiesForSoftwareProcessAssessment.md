@@ -1,0 +1,12 @@
+---
+title: "On the Use of Ontologies in Software Process Assessment: A Systematic Literature Review"
+collection: publications
+category: conferences
+permalink: /publication/2017-06-15-OntologiesForSoftwareProcessAssessment
+date: 2017-06-15
+venue: 'International Conference on Evaluation and Assessment in Software Engineering'
+paperurl: 'https://doi.org/10.1145/3084226.3084261'
+citation: 'Tarhan, A., & <b>Giray, G.</b> (2017, June). On the use of ontologies in software process assessment: a systematic literature review. In <i>Proceedings of the 21st international conference on evaluation and assessment in software engineering</i> (pp. 2-11).'
+---
+
+Software process assessment (SPA) is the foundation step for software process improvement. ISO/IEC 15504 defines the term process assessment as "the systematic evaluation of an organization's processes against a process reference model (PRM)". In process assessment, there is a need to set and maintain a mapping between an organization's processes and a PRM, where process experts transform the gap between the two into opportunities for process improvement. To maintain such a mapping requires a continuous tracking and alignment between the organization's processes and the PRM(s). The use of ontologies might be a suitable solution to provide computerized tool support for SPA that becomes erroneous and time-consuming if done manually. With an aim to understand the use and usefulness of ontologies in SPA, in this study, we have performed a systematic literature review (SLR). We have searched the most known digital libraries and selected 14 studies out of 54 initially selected and 571 initially retrieved. We analyzed the selected studies with respect to a number of research questions that address; contribution facet, targeted software processes, research facet, process improvement model used, process assessment model used, ontology representation language, purpose of ontology use, qualitative and quantitative benefits reported, and challenges faced. As a result, we synthesized a conceptual model of ontology-based support in SPA. We hope the results of our work will be useful for researchers and practitioners to direct their future studies on the use of ontologies for SPA.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Görkem Giray"
+<!-- title: "Görkem Giray"-->
 author_profile: true
 redirect_from: 
   - /about/

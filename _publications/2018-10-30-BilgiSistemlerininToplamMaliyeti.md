@@ -6,7 +6,7 @@ permalink: /publication/2018-10-30-BilgiSistemlerininToplamMaliyeti
 date: 2018-10-30
 venue: 'Bilişim Teknolojileri Dergisi'
 paperurl: 'https://doi.org/10.17671/gazibtd.420300'
-citation: 'Giray, G. (2018). Bilgi sistemlerinin toplam sahip olma maliyetini hesaplamak için bir çerçeve. <i>Bilişim Teknolojileri Dergisi</i>, 11(4), 383-397.'
+citation: '<b>Giray, G.</b> (2018). Bilgi sistemlerinin toplam sahip olma maliyetini hesaplamak için bir çerçeve. <i>Bilişim Teknolojileri Dergisi</i>, 11(4), 383-397.'
 ---
 
 Giderek daha fazla sayıda organizasyonun faaliyetleri bilgi sistemlerine bağımlı duruma gelmektedir. Bu da bilgi sistemlerini hayatımızın önemli bir bileşeni durumuna getirmektedir. Küreselleşme ve zorlaşan rekabet nedeniyle, rekabet avantajı elde etmek ya da bunu korumak için stratejik maliyet yönetimi vazgeçilmez bir konuma gelmiştir. Bu iki eğilim, bilgi sistemlerinin toplam sahip olma maliyetlerinin (TSOM) hesaplanmasını önemli kılmaktadır. Bu doğrultuda, bir

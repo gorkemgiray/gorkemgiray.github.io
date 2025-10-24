@@ -74,6 +74,7 @@ author_profile: true
     <tr>
       <th scope="col">Year</th>
       <th scope="col">Organization</th>
+      <th scope="col">Degree</th>
       <th scope="col">Title</th>
       <th scope="col">Student</th>
       <th scope="col">Supervisors</th>
@@ -86,7 +87,8 @@ author_profile: true
     <tr>
       <td data-label="Year">2027</td>
       <td data-label="Organization">Izmir Institute of Technology</td>
-      <td data-label="Title">AI-Enhanced Regression Testing for Large-Scale Software Systems</td>
+      <td data-label="Degree">Master</td>
+      <td data-label="Title">Artificial Intelligence-Enhanced Regression Testing for Large-Scale Software Systems</td>
       <td data-label="Student">Yusuf Emre Beskan</td>
       <td data-label="Supervisors">Prof. Dr. Onur Demirörs; Dr. Görkem Giray</td>
       <td data-label="Link">Ongoing</td>
@@ -95,17 +97,20 @@ author_profile: true
     <tr>
       <td data-label="Year">2025</td>
       <td data-label="Organization">Eindhoven University of Technology</td>
+      <td data-label="Degree">Master</td>
       <td data-label="Title">Towards a Gold-Standard Refactoring Dataset</td>
       <td data-label="Student">Maria Emanuela Calota</td>
-      <td data-label="Supervisors">Asst. Prof. Lina Ochoa Venegas; Dr. Görkem Giray</td>
-      <td data-label="Link">
-        <a href="https://example.com/thesis-john-smith.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+      <td data-label="Supervisors">Asst. Prof. Lina Ochoa Venegas; Dr. Görkem Giray; Asst. Prof. Önder Babur</td>
+      <td data-label="Link">Under Publication</td>
+      <!-- <td data-label="Link">
+        <a href="https://example.com/thesis-john-smith.pdf" target="_blank" rel="noopener noreferrer">PDF</a> -->
       </td>
     </tr>
 
     <tr>
       <td data-label="Year">2023</td>
       <td data-label="Organization">Izmir Institute of Technology</td>
+      <td data-label="Degree">Master</td>
       <td data-label="Title">A mutation-based approach to alleviate the class imbalance problem in software defect prediction</td>
       <td data-label="Student">Dinçer Güner</td>
       <td data-label="Supervisors">Prof. Dr. Onur Demirörs; Dr. Görkem Giray</td>

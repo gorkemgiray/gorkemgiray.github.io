@@ -103,8 +103,8 @@ author_profile: true
       <td data-label="Supervisors">Asst. Prof. Lina Ochoa Venegas; Dr. Görkem Giray; Asst. Prof. Önder Babur</td>
       <td data-label="Link">Under Publication</td>
       <!-- <td data-label="Link">
-        <a href="https://example.com/thesis-john-smith.pdf" target="_blank" rel="noopener noreferrer">PDF</a> -->
-      </td>
+        <a href="https://example.com/thesis-john-smith.pdf" target="_blank" rel="noopener noreferrer">PDF</a> 
+      </td> -->
     </tr>
 
     <tr>

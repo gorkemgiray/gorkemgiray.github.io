@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer and IT executive with a multidisciplinary background spanning computer engineering, business administration, and philosophy. I hold a Ph.D. and B.Sc. in Computer Engineering from Ege University, an MBA from Koç University, and a B.A. in Philosophy from İstanbul University.
+I am a software engineer and IT executive with a multidisciplinary background spanning computer engineering, business administration, and philosophy. I hold a Ph.D. and B.Sc. in Computer Engineering from Ege University, an MBA from Koç University, and a B.A. in Philosophy from İstanbul University (Open and Distance Education Faculty).
 
 With over two decades of industry experience, I have held various technical and leadership roles — from Software Engineer to Regional IT Director — driving digital transformation and IT strategy across global operations.
 

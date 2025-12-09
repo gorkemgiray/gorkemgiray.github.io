@@ -13,4 +13,4 @@ With over two decades of industry experience, I have held various technical and 
 
 Alongside my professional career, I have served as a part-time lecturer, teaching courses on Software Engineering and Project Management.
 
-Since October 2025, I have been serving as a Postdoctoral Researcher at the İzmir Institute of Technology and a Guest Researcher with the Software Engineering & Technology (SET) Group at Eindhoven University of Technology.
+Since October 2025, I have been serving as a Postdoctoral Researcher at the İzmir Institute of Technology and a Guest Researcher with the <a href="https://research.tue.nl/en/persons/g%C3%B6rkem-giray/">Software Engineering & Technology (SET) Group at Eindhoven University of Technology</a>.
